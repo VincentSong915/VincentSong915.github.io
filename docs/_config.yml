@@ -23,10 +23,10 @@ title: Vincent's Blog
 #email: wenqingsong389@gmail.com
 description: What makes me me
 url: https://vincentsong915.github.io
-avatar: /images/avatar.JPG
+avatar: /assets/images/avatar.JPG
 paginate: 5
 permalink: pretty
-cover_image: /images/bg.JPG
+cover_image: /assets/images/bg.JPG
 
 
 # Build settings
@@ -67,9 +67,6 @@ lang: en
 sass:
   sass_dir: _sass
   style: :compressed
-
-# Site icon
-favicon: /images/favicon.ico
 
 # Exclude from processing.
 # The following items will not be processed, by default.
